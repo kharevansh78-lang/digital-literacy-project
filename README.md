@@ -16,6 +16,22 @@ This project is about teaching people to use the internet in a way communicate l
 >>>>>Objective
 The goal of this literacy project is to help students, like me look at our digital footprint and be safe, responsible and professional online. It also wants to make us more aware of things and use technology in a good and safe way.
 
+🛠️ Module Summaries
+Module 1: Awareness Infographic
+Created a visual resource using tools like Canva to explain digital literacy, safe internet practices, and useful student tools. This task focuses on visual communication and information design.
+
+Module 2: Student Digital Portfolio
+Established a professional presence on platforms such as GitHub and LinkedIn. This included creating a GitHub profile README and updating educational details to prepare for future career opportunities.
+
+Module 3: Coding & Collaboration
+Built familiarity with technical practice platforms like HackerRank or CodeChef. Additionally, utilized Google Workspace to create a collaborative Digital Literacy Awareness Quiz and response tracking system.
+
+Module 4: Professional Communication
+Developed high-quality professional email drafts for academic and internship scenarios. This module also included a "Social Media Do’s and Don’ts" checklist to ensure responsible online conduct.
+
+Module 5: Cybercrime Awareness
+Researched real-world threats like Phishing or UPI fraud. Developed a detailed case study and a "Stay Safe Online" prevention checklist tailored for students in India.
+
 >>>>>Key Topics Covered
 I learned about digital footprint awareness and digital literacy project and online safety.
 The digital literacy project also covered online presence, email communication etiquette, social media responsibility and cybercrime awareness and prevention.
